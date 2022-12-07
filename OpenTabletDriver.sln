@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTabletDriver.UX.Wpf", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTabletDriver.UX.MacOS", "OpenTabletDriver.UX.MacOS\OpenTabletDriver.UX.MacOS.csproj", "{04F1C172-8816-4FEC-B54B-D82535996C01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTabletDriver.Native.MacOS", "OpenTabletDriver.Native.MacOS\OpenTabletDriver.Native.MacOS.csproj", "{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,5 +200,17 @@ Global
 		{04F1C172-8816-4FEC-B54B-D82535996C01}.Release|x64.Build.0 = Release|Any CPU
 		{04F1C172-8816-4FEC-B54B-D82535996C01}.Release|x86.ActiveCfg = Release|Any CPU
 		{04F1C172-8816-4FEC-B54B-D82535996C01}.Release|x86.Build.0 = Release|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Debug|x64.Build.0 = Debug|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Debug|x86.Build.0 = Debug|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Release|x64.ActiveCfg = Release|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Release|x64.Build.0 = Release|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Release|x86.ActiveCfg = Release|Any CPU
+		{9BA946E3-3ED0-47D7-84C9-9E29FFDBC04F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

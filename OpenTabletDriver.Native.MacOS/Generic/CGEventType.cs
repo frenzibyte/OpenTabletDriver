@@ -1,4 +1,4 @@
-﻿namespace OpenTabletDriver.Native.OSX
+﻿namespace OpenTabletDriver.Native.MacOS.Generic
 {
     public enum CGEventType : uint
     {
